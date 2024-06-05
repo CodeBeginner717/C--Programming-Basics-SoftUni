@@ -1,0 +1,14 @@
+C:\Users\GRIGS\Desktop\SoftUni\For Loop - Lab\Numbers N-1\Numbers N-1\bin\Debug\net8.0\Numbers N-1.exe
+C:\Users\GRIGS\Desktop\SoftUni\For Loop - Lab\Numbers N-1\Numbers N-1\bin\Debug\net8.0\Numbers N-1.deps.json
+C:\Users\GRIGS\Desktop\SoftUni\For Loop - Lab\Numbers N-1\Numbers N-1\bin\Debug\net8.0\Numbers N-1.runtimeconfig.json
+C:\Users\GRIGS\Desktop\SoftUni\For Loop - Lab\Numbers N-1\Numbers N-1\bin\Debug\net8.0\Numbers N-1.dll
+C:\Users\GRIGS\Desktop\SoftUni\For Loop - Lab\Numbers N-1\Numbers N-1\bin\Debug\net8.0\Numbers N-1.pdb
+C:\Users\GRIGS\Desktop\SoftUni\For Loop - Lab\Numbers N-1\Numbers N-1\obj\Debug\net8.0\Numbers N-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GRIGS\Desktop\SoftUni\For Loop - Lab\Numbers N-1\Numbers N-1\obj\Debug\net8.0\Numbers N-1.AssemblyInfoInputs.cache
+C:\Users\GRIGS\Desktop\SoftUni\For Loop - Lab\Numbers N-1\Numbers N-1\obj\Debug\net8.0\Numbers N-1.AssemblyInfo.cs
+C:\Users\GRIGS\Desktop\SoftUni\For Loop - Lab\Numbers N-1\Numbers N-1\obj\Debug\net8.0\Numbers N-1.csproj.CoreCompileInputs.cache
+C:\Users\GRIGS\Desktop\SoftUni\For Loop - Lab\Numbers N-1\Numbers N-1\obj\Debug\net8.0\Numbers N-1.dll
+C:\Users\GRIGS\Desktop\SoftUni\For Loop - Lab\Numbers N-1\Numbers N-1\obj\Debug\net8.0\refint\Numbers N-1.dll
+C:\Users\GRIGS\Desktop\SoftUni\For Loop - Lab\Numbers N-1\Numbers N-1\obj\Debug\net8.0\Numbers N-1.pdb
+C:\Users\GRIGS\Desktop\SoftUni\For Loop - Lab\Numbers N-1\Numbers N-1\obj\Debug\net8.0\Numbers N-1.genruntimeconfig.cache
+C:\Users\GRIGS\Desktop\SoftUni\For Loop - Lab\Numbers N-1\Numbers N-1\obj\Debug\net8.0\ref\Numbers N-1.dll
